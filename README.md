@@ -1,7 +1,7 @@
 # AWS Lift & Shift Migration
 
 ## Overview
-This project details the **Lift & Shift** strategy for migrating a **Multi-Tier Web Application Stack (VPROFILE)** to AWS cloud for production. The **Lift & Shift** approach involves moving workloads to AWS **without significant architectural modifications**, ensuring minimal downtime and quick cloud adoption.
+This project details the **Lift & Shift** strategy for migrating a **Multi-Tier Web Application Stack** to AWS cloud for production. The **Lift & Shift** approach involves moving workloads to AWS **without significant architectural modifications**, ensuring minimal downtime and quick cloud adoption.
 
 ## Challenges Addressed
 - **Complex Infrastructure Management:** Managing on-premise workloads is difficult.
