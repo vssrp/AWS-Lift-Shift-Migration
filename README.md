@@ -1,7 +1,5 @@
 # AWS Lift & Shift Migration
 
-# Vpro Setup AWS Lift & Shift
-
 ## Overview
 This project details the **Lift & Shift** strategy for migrating a **Multi-Tier Web Application Stack (VPROFILE)** to AWS cloud for production. The **Lift & Shift** approach involves moving workloads to AWS **without significant architectural modifications**, ensuring minimal downtime and quick cloud adoption.
 
